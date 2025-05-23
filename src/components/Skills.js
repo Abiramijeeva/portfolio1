@@ -7,12 +7,8 @@ function Skills() {
         <li>Machine Learning</li>
         <li>Deep Learning</li>
         <li>Data Analysis</li>
-        <li>SQL</li>
-        <li>React.js</li>
-        <li>JavaScript</li>
-        <li>TensorFlow & Keras</li>
-        <li>Natural Language Processing</li>
-        <li>Git & GitHub</li>
+        <li>Conquest C Programming</li>
+        <li>Java Basic</li>
       </ul>
     </section>
   );
